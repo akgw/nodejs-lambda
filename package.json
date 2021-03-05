@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-lambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ryunosuke-akagawa-sms/alarm-to-slack-lambda.git",
+  "author": "ryunosuke-akagawa-sms <ryunosuke-akagawa@bm-sms.co.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^67.1.1"
+  }
+}
